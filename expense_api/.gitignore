@@ -1,0 +1,4 @@
+.idea/
+build/build-env/
+__pycache__/
+.env
