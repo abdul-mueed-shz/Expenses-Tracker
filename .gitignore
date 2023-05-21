@@ -1,4 +1,4 @@
 expense_api/build/build-env/
 expense_api/.idea/
-**/__pycache__/
+expense_api/**/__pycache__/
 expense_api/.env
